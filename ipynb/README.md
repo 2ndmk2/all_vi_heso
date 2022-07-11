@@ -1,5 +1,7 @@
-# hzlc pipeline
+# some useful ipynb scripts
 
 ---
 
-To-Do : 
+get_gaia_info.ipynb
+
+vlass_test.ipynb
